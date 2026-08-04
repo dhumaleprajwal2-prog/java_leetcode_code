@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/dhumaleprajwal2-prog/java_leetcode_code/tree/master/0001-two-sum) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/dhumaleprajwal2-prog/java_leetcode_code/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0877-stone-game](https://github.com/dhumaleprajwal2-prog/java_leetcode_code/tree/master/0877-stone-game) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dhumaleprajwal2-prog/java_leetcode_code/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/dhumaleprajwal2-prog/java_leetcode_code/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/dhumaleprajwal2-prog/java_leetcode_code/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/dhumaleprajwal2-prog/java_leetcode_code/tree/master/1512-number-of-good-pairs) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/dhumaleprajwal2-prog/java_leetcode_code/tree/master/0001-two-sum) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dhumaleprajwal2-prog/java_leetcode_code/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/dhumaleprajwal2-prog/java_leetcode_code/tree/master/1512-number-of-good-pairs) |
 ## Simulation
 |  |
@@ -60,4 +62,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/dhumaleprajwal2-prog/java_leetcode_code/tree/master/1512-number-of-good-pairs) |
+## Sorting
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dhumaleprajwal2-prog/java_leetcode_code/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dhumaleprajwal2-prog/java_leetcode_code/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
