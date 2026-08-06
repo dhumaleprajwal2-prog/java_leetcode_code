@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/dhumaleprajwal2-prog/java_leetcode_code/tree/master/0001-two-sum) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/dhumaleprajwal2-prog/java_leetcode_code/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0832-flipping-an-image](https://github.com/dhumaleprajwal2-prog/java_leetcode_code/tree/master/0832-flipping-an-image) |
 | [0877-stone-game](https://github.com/dhumaleprajwal2-prog/java_leetcode_code/tree/master/0877-stone-game) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dhumaleprajwal2-prog/java_leetcode_code/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/dhumaleprajwal2-prog/java_leetcode_code/tree/master/1470-shuffle-the-array) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/dhumaleprajwal2-prog/java_leetcode_code/tree/master/0832-flipping-an-image) |
 | [1920-build-array-from-permutation](https://github.com/dhumaleprajwal2-prog/java_leetcode_code/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/dhumaleprajwal2-prog/java_leetcode_code/tree/master/1929-concatenation-of-array) |
 ## Binary Search
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/dhumaleprajwal2-prog/java_leetcode_code/tree/master/0832-flipping-an-image) |
 | [1672-richest-customer-wealth](https://github.com/dhumaleprajwal2-prog/java_leetcode_code/tree/master/1672-richest-customer-wealth) |
 ## Math
 |  |
@@ -76,4 +79,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/dhumaleprajwal2-prog/java_leetcode_code/tree/master/1832-check-if-the-sentence-is-pangram) |
+## Two Pointers
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/dhumaleprajwal2-prog/java_leetcode_code/tree/master/0832-flipping-an-image) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/dhumaleprajwal2-prog/java_leetcode_code/tree/master/0832-flipping-an-image) |
 <!---LeetCode Topics End-->
