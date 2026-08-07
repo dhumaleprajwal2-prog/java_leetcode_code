@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/dhumaleprajwal2-prog/java_leetcode_code/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/dhumaleprajwal2-prog/java_leetcode_code/tree/master/0014-longest-common-prefix) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/dhumaleprajwal2-prog/java_leetcode_code/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0832-flipping-an-image](https://github.com/dhumaleprajwal2-prog/java_leetcode_code/tree/master/0832-flipping-an-image) |
 | [0877-stone-game](https://github.com/dhumaleprajwal2-prog/java_leetcode_code/tree/master/0877-stone-game) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/dhumaleprajwal2-prog/java_leetcode_code/tree/master/0014-longest-common-prefix) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/dhumaleprajwal2-prog/java_leetcode_code/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Two Pointers
 |  |
@@ -87,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/dhumaleprajwal2-prog/java_leetcode_code/tree/master/0832-flipping-an-image) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/dhumaleprajwal2-prog/java_leetcode_code/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
