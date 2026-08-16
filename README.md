@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/dhumaleprajwal2-prog/java_leetcode_code/tree/master/0066-plus-one) |
 | [0877-stone-game](https://github.com/dhumaleprajwal2-prog/java_leetcode_code/tree/master/0877-stone-game) |
 | [1512-number-of-good-pairs](https://github.com/dhumaleprajwal2-prog/java_leetcode_code/tree/master/1512-number-of-good-pairs) |
+| [2119-a-number-after-a-double-reversal](https://github.com/dhumaleprajwal2-prog/java_leetcode_code/tree/master/2119-a-number-after-a-double-reversal) |
 ## Dynamic Programming
 |  |
 | ------- |
