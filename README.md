@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/dhumaleprajwal2-prog/java_leetcode_code/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0832-flipping-an-image](https://github.com/dhumaleprajwal2-prog/java_leetcode_code/tree/master/0832-flipping-an-image) |
 | [0877-stone-game](https://github.com/dhumaleprajwal2-prog/java_leetcode_code/tree/master/0877-stone-game) |
+| [0977-squares-of-a-sorted-array](https://github.com/dhumaleprajwal2-prog/java_leetcode_code/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dhumaleprajwal2-prog/java_leetcode_code/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/dhumaleprajwal2-prog/java_leetcode_code/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/dhumaleprajwal2-prog/java_leetcode_code/tree/master/1480-running-sum-of-1d-array) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/dhumaleprajwal2-prog/java_leetcode_code/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dhumaleprajwal2-prog/java_leetcode_code/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
 |  |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/dhumaleprajwal2-prog/java_leetcode_code/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/dhumaleprajwal2-prog/java_leetcode_code/tree/master/0344-reverse-string) |
 | [0832-flipping-an-image](https://github.com/dhumaleprajwal2-prog/java_leetcode_code/tree/master/0832-flipping-an-image) |
+| [0977-squares-of-a-sorted-array](https://github.com/dhumaleprajwal2-prog/java_leetcode_code/tree/master/0977-squares-of-a-sorted-array) |
 ## Bit Manipulation
 |  |
 | ------- |
