@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/dhumaleprajwal2-prog/java_leetcode_code/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/dhumaleprajwal2-prog/java_leetcode_code/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/dhumaleprajwal2-prog/java_leetcode_code/tree/master/1929-concatenation-of-array) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/dhumaleprajwal2-prog/java_leetcode_code/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Hash Table
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/dhumaleprajwal2-prog/java_leetcode_code/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/dhumaleprajwal2-prog/java_leetcode_code/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/dhumaleprajwal2-prog/java_leetcode_code/tree/master/0088-merge-sorted-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/dhumaleprajwal2-prog/java_leetcode_code/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dhumaleprajwal2-prog/java_leetcode_code/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/dhumaleprajwal2-prog/java_leetcode_code/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Counting Sort
 |  |
 | ------- |
@@ -100,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/dhumaleprajwal2-prog/java_leetcode_code/tree/master/0344-reverse-string) |
 | [0832-flipping-an-image](https://github.com/dhumaleprajwal2-prog/java_leetcode_code/tree/master/0832-flipping-an-image) |
 | [0977-squares-of-a-sorted-array](https://github.com/dhumaleprajwal2-prog/java_leetcode_code/tree/master/0977-squares-of-a-sorted-array) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/dhumaleprajwal2-prog/java_leetcode_code/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Bit Manipulation
 |  |
 | ------- |
