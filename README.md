@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/dhumaleprajwal2-prog/java_leetcode_code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/dhumaleprajwal2-prog/java_leetcode_code/tree/master/0136-single-number) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/dhumaleprajwal2-prog/java_leetcode_code/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0217-contains-duplicate](https://github.com/dhumaleprajwal2-prog/java_leetcode_code/tree/master/0217-contains-duplicate) |
 | [0832-flipping-an-image](https://github.com/dhumaleprajwal2-prog/java_leetcode_code/tree/master/0832-flipping-an-image) |
 | [0877-stone-game](https://github.com/dhumaleprajwal2-prog/java_leetcode_code/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/dhumaleprajwal2-prog/java_leetcode_code/tree/master/0977-squares-of-a-sorted-array) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/dhumaleprajwal2-prog/java_leetcode_code/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/dhumaleprajwal2-prog/java_leetcode_code/tree/master/0217-contains-duplicate) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dhumaleprajwal2-prog/java_leetcode_code/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/dhumaleprajwal2-prog/java_leetcode_code/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/dhumaleprajwal2-prog/java_leetcode_code/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/dhumaleprajwal2-prog/java_leetcode_code/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/dhumaleprajwal2-prog/java_leetcode_code/tree/master/0217-contains-duplicate) |
 | [0977-squares-of-a-sorted-array](https://github.com/dhumaleprajwal2-prog/java_leetcode_code/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dhumaleprajwal2-prog/java_leetcode_code/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/dhumaleprajwal2-prog/java_leetcode_code/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
