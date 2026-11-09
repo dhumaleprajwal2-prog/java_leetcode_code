@@ -8,13 +8,13 @@ class Solution {
             count++;
         }else {
             
-            max=Math.max(max,count);
+           // max=Math.max(max,count);
             count=0;
-         }//if(max<=count){
-        //     max=count;
-        // }
+          }if(max<=count){
+             max=count;
+         }
     
     }
-      return Math.max(max,count);
+      return max;// Math.max(max,count);
     }
 }
