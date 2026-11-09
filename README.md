@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/dhumaleprajwal2-prog/java_leetcode_code/tree/master/0136-single-number) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/dhumaleprajwal2-prog/java_leetcode_code/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0217-contains-duplicate](https://github.com/dhumaleprajwal2-prog/java_leetcode_code/tree/master/0217-contains-duplicate) |
+| [0485-max-consecutive-ones](https://github.com/dhumaleprajwal2-prog/java_leetcode_code/tree/master/0485-max-consecutive-ones) |
 | [0832-flipping-an-image](https://github.com/dhumaleprajwal2-prog/java_leetcode_code/tree/master/0832-flipping-an-image) |
 | [0877-stone-game](https://github.com/dhumaleprajwal2-prog/java_leetcode_code/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/dhumaleprajwal2-prog/java_leetcode_code/tree/master/0977-squares-of-a-sorted-array) |
