@@ -7,12 +7,14 @@ class Solution {
         {
             count++;
         }else {
+            
+            max=Math.max(max,count);
             count=0;
-        }if(max<=count){
-            max=count;
-        }
+         }//if(max<=count){
+        //     max=count;
+        // }
     
     }
-      return max;
+      return Math.max(max,count);
     }
 }
